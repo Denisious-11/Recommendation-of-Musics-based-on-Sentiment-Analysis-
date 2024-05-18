@@ -1,0 +1,2 @@
+Review model - 94% accuracy
+Lyrics model - 70% accuracy

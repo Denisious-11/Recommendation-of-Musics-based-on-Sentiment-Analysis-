@@ -1,0 +1,13 @@
+Lyrics_model
+------------
+
+0 - sad
+1 - happy
+
+
+
+Reviews_model
+-------------
+
+0 - Negative
+1 - Positive
